@@ -26,5 +26,5 @@ Darlan: México
 
 Roberto: Uruguai
 
-Bruno: ?
+Bruno: Equador
 
