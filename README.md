@@ -26,7 +26,7 @@ Darlan: México
 
 Roberto: Uruguai
 
-Bruno: ?
+Bruno: Brasil
 
 Lars: Argentina
 
