@@ -52,7 +52,7 @@ c) No body: Dividir os documentos em header, nav, section e footer
 
 d) No header criar um título com H1
 
-e) No nav criar um menu indicando as páginas relacionadas e links para as mesmas ( <a href =“caminho da página”>Página 1 </a> )
+e) No nav criar um menu indicando as páginas relacionadas e links para as mesmas ( < a href =“caminho da página”>Página 1 < / a> )
 
 f) No section inserir um título com h2 e pelo menos cinco parágrafos sobre o assunto tratado. Caso queiram inserir imagens, utilizar < img src =“caminho da imagem” alt =“descrição da imagem”>
 
