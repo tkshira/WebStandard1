@@ -1,5 +1,7 @@
 Página destinada para auxiliar na criação da página.
 
+Para entender melhor esta página, clique em Raw antes de começar a ler.
+
 Vou passar algumas tags aqui que vão auxiliar na hora de desenvolver a página, conforme a solicitação do professor.
 
 a) DocType HTML5:
@@ -8,17 +10,17 @@ Este tag se encontra no começo do arquivo. O tag dele é <!DOCTYPE HTML5>
 
 b) Title, charset e metatags
 
-Para título, existe o tag < title> que inclui o título na página. A estrutura dele é:
+Para título, existe o tag <title> que inclui o título na página. A estrutura dele é:
 
-< title> Meu Título </title>
+<title> Meu Título </title>
 
 Para incluir o charset, é a tag: 
 
-< meta charset="UTF-8">
+<meta charset="UTF-8">
 
 Para incluir meta tag, é a tag <meta name="Tipo do metatag" content="Valor do metatag>. Por exemplo:
 
-< meta name="author" content="Takeshi">
+<meta name="author" content="Takeshi">
 
 c) No body, vai ter que incluir 4 tags (Obs.: não esquecer de fechar essas tags depois de abri-las:
 
@@ -30,13 +32,13 @@ c) No body, vai ter que incluir 4 tags (Obs.: não esquecer de fechar essas tags
 
 <footer>: Onde tem as informações do rodapé da página.
 
-d) Incluir um título no cabeçalho da página. A tag é < h1>. Por exemplo:
+d) Incluir um título no cabeçalho da página. A tag é <h1>. Por exemplo:
 
-< h1>Meu Título</h1>
+<h1>Meu Título</h1>
 
-e) Incluir os links na tag <nav>. Para incluir um link na página, será necessário usar a tag < a href="caminho_do_link/nome_do_arquivo.html"> Meu link </a>. Por exemplo:
+e) Incluir os links na tag <nav>. Para incluir um link na página, será necessário usar a tag <a href="caminho_do_link/nome_do_arquivo.html"> Meu link </a>. Por exemplo:
 
-< a href="/Equador.html"> Equador </a>
+<a href="/Equador.html"> Equador </a>
 
 f) No section, inserir 1 título h2 e 5 parágrafos sobre o assunto tratado.
 
