@@ -13,4 +13,4 @@ Repositório criado para incluir os arquivos necessários para o site de Web Des
 
 [Tutorial](doc/Tutorial.MD)
 
-Se tiverem alguma dúvida, me mandem mensagem no whatsapp (11) 96609-7050.
+Se tiverem alguma dúvida, me mandem mensagem no whatsapp (11) 96609-7050. (Mas só depois do domingo a noite, porque vou estar off, ou na segunda durante a aula)
