@@ -36,7 +36,8 @@ d) Incluir um título no cabeçalho da página. A tag é ```<h1>```. Por exemplo
 ```
 <h1>Meu Título</h1>
 ```
-e) Incluir os links na tag <nav>. Para incluir um link na página, será necessário usar a tag ```<a href="caminho_do_link/nome_do_arquivo.html"> Meu link </a>```. Por exemplo:
+e) Incluir os links na tag ```<nav>```. Para incluir um link na página, será necessário usar a tag ```<a href="caminho_do_link/nome_do_arquivo.html"> Meu link </a>```. 
+Por exemplo:
 ```
 <a href="/Equador.html"> Equador </a>
 ```
