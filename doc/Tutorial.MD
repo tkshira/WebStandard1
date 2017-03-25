@@ -57,7 +57,7 @@ i) Documentar o código.
 Para incluir um comentário, a tag é ```<!-- Meu Comentário -->```. Por exemplo:
 ```
 <!--
-  Incluir metatags solicitadas pelo professor
+  Tag destinado aos links para navegação.
 --> 
 ```
 Bom, acredito que com isso dê pra fazer boa parte da página.
