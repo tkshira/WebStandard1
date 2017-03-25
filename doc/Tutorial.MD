@@ -49,6 +49,20 @@ Para incluir esse título, ele utiliza a tag ```<h2>Meu outro título</h2>```. P
 ```
 E para pular de linha, utiliza-se a tag ```<br>```.
 
+Para incluir uma imagem, é necessário usar a tag ```<img>```. Nesse caso, podemos usar de 2 maneiras:
+
+1- Utilizar com uma imagem da web. Por exemplo:
+
+```
+<img src="http://www.meusite.com/minha_bandeira.jpg" alt="bandeira">
+```
+
+2- Utilizar com uma imagem local (dentro da pasta do site). Por exemplo:
+
+```
+<img src="\minha_bandeira.jpg" alt="bandeira">
+```
+
 g) Inserir no footer o nome da disciplina e curso.
 
 Esta informação deve ficar dentro da tag ```<footer>```, que é responsável por incluir os dados no rodapé da página.
