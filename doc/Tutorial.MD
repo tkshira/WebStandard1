@@ -42,7 +42,7 @@ e) Incluir os links na tag <nav>. Para incluir um link na página, será necess�
 ```
 f) No section, inserir 1 título h2 e 5 parágrafos sobre o assunto tratado.
 
-Para incluir esse título, ele utiliza a tag <h2>Meu outro título ```<h2>```. Por exemplo:
+Para incluir esse título, ele utiliza a tag ```<h2>Meu outro título</h2>```. Por exemplo:
 ```
 <h2> População </h2>
 ```
