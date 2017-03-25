@@ -36,10 +36,10 @@ d) Incluir um título no cabeçalho da página. A tag é ```<h1>```. Por exemplo
 ```
 <h1>Meu Título</h1>
 ```
-e) Incluir os links na tag <nav>. Para incluir um link na página, será necessário usar a tag <a href="caminho_do_link/nome_do_arquivo.html"> Meu link </a>. Por exemplo:
-
+e) Incluir os links na tag <nav>. Para incluir um link na página, será necessário usar a tag ```<a href="caminho_do_link/nome_do_arquivo.html"> Meu link </a>```. Por exemplo:
+```
 <a href="/Equador.html"> Equador </a>
-
+```
 f) No section, inserir 1 título h2 e 5 parágrafos sobre o assunto tratado.
 
 Para incluir esse título, ele utiliza a tag <h2>Meu outro título ```<h2>```. Por exemplo:
@@ -50,7 +50,7 @@ E para pular de linha, utiliza-se a tag ```<br>```.
 
 g) Inserir no footer o nome da disciplina e curso.
 
-Esta informação deve ficar dentro da tag <footer>, que é responsável por incluir os dados no rodapé da página.
+Esta informação deve ficar dentro da tag ```<footer>```, que é responsável por incluir os dados no rodapé da página.
 
 i) Documentar o código.
 
